@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-express",
+  "version": "1.0.0",
+  "description": "Main entry point for the ExpressJS Hello World application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "install": "bash run.sh"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": ["express", "hello", "world"],
+  "author": "",
+  "license": "MIT"
+}
